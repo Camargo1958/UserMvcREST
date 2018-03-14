@@ -1,0 +1,6 @@
+userMvcREST\config\AppInitializer.class
+userMvcREST\dao\UserDAO.class
+userMvcREST\model\User.class
+userMvcREST\config\AppConfig.class
+userMvcREST\controller\UserRestController.class
+userMvcREST\controller\LoginRestController.class
